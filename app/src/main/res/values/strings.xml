@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="clear_list">Clear List</string>
+    <string name="start_new_game">start new game</string>
+    <string name="timer">timer</string>
+    <string name="winner">Winner</string>
+    <string name="winners_list">Winners list</string>
+    <string name="go_to_the_game">Go to the game</string>
+    <string name="enter_first_team">Enter first team</string>
+    <string name="enter_second_team">Enter second team</string>
+    <string name="share">Share</string>
+    <string name="sort_by_score">Sort by score</string>
+    <string name="add_point_one">Add point</string>
+    <string name="score_a">0</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="score_b">0</string>
+    <string name="add_point">Add point</string>
+    <string name="enter_minutes">enter_minutes</string>
+    <string name="cancel">Cancel</string>
+    <string name="finish">Finish</string>
+    <string name="start">Start</string>
+    <string name="text">TEXT</string>
+</resources>
